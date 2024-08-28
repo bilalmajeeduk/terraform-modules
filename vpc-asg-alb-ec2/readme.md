@@ -1,8 +1,8 @@
 ### for unhealthy instances.
 I have created index.html files is the instances, by following this resource.
-cd /etc/httpd/conf
-cd /var/www/html
-echo 'health check2' > index.html
+- cd /etc/httpd/conf
+- cd /var/www/html
+- echo 'health check2' > index.html
 [for reference:] (https://www.youtube.com/watch?v=192YG1_0Pcg)
 
 
